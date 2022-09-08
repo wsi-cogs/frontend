@@ -11,7 +11,7 @@
     "immutability-helper": "^2.7.1",
     "is-equal": "^1.5.5",
     "js-cache": "^1.0.3",
-    "jszip": "^3.1.5",
+    "jszip": "^3.7.0",
     "moment": "^2.22.2",
     "promise.allsettled": "^1.0.1",
     "prop-types": "^15.6.2",
